@@ -24,14 +24,14 @@ LoanStats_2019Q1.csc
 ### *Undersampling*
 - Balanced Accuracy: 0.649
 - Precision: The precision is low for High-risk loans and is high for Low-risk loans.
-- Recall: High/Low risk = 0.59/0.65
+- Recall: High/Low risk = 0.57/0.46
 <img width="636" alt="Undersampling" src="https://user-images.githubusercontent.com/91889241/163892322-4364b49a-309e-4f4d-8e62-e0fabc9e346a.png">
 
 
 ### *Combination Under-Over Sampling*
 - Balanced Accuracy: 0.616
 - Precision: The precision is low for High-risk loans and is high for Low-risk loans.
-- Recall: High/Low risk = 0.57/0.46
+- Recall: High/Low risk = 0.70/0.58
 <img width="614" alt="Combo Under-over" src="https://user-images.githubusercontent.com/91889241/163892333-c1638689-5880-4a10-b1e1-6f6f0628a2b3.png">
 
 
