@@ -17,7 +17,7 @@ LoanStats_2019Q1.csc
 ### *SMOTE Oversampling*
 - Balanced Accuracy: 0.616
 - Precision: The precision is low for High-risk loans and is high for Low-risk loans.
-- Recall: High/Low risk = 0.61/0.69
+- Recall: High/Low risk = 0.59/0.65
 <img width="625" alt="SMOTE Over" src="https://user-images.githubusercontent.com/91889241/163892311-8e51405f-9b80-4dca-ab69-0554114cbe0f.png">
 
 
