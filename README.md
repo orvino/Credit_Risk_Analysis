@@ -4,7 +4,7 @@ From our previous work on credit card dataset for LendingClub, Jill has asked us
 
 ## **Resources**
 Software: Python 3.10.1, Visual Studio Code 1.63.2, Pandas 1.2.4, Jupyter Notebook 6.4.8
-LoanStats_2019Q1.csc
+LoanStats_2019Q1.csv
 
 ## **Results**
 ### *Native Random Oversampling*
